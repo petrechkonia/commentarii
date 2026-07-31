@@ -59,13 +59,13 @@ a {
     max-width: var(--max-width);
     margin: 0 auto;
     padding: 1.5em;
-    font-family: var(--font-mono);
 }
 
 .terminal {
     display: flex;
     flex-direction: column;
-    gap: var(--line-gap)
+    gap: var(--line-gap);
+    font-family: var(--font-mono);
 }
 
 a:hover .command {
