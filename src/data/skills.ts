@@ -6,7 +6,7 @@ export interface SkillGroup {
 export const skills: SkillGroup[] = [
     {
         category: "Languages",
-        items: ["Kotlin", "Java", "Swift", "SQL", "HTML", "CSS", "Bash"],
+        items: ["Kotlin", "Java", "Swift", "SQL", "HTML", "CSS"],
     },
     {
         category: "Frameworks & Libraries",

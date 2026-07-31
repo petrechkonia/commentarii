@@ -18,8 +18,7 @@ export const education: Education[] = [
         endDate: "2025-10",
         highlights: [
             "Offered to employees during my Android Developer role at TBC as part of internal professional development",
-            "Built on limited prior experience with SQLite; the course served as a strong introduction to SQL and reshaped my understanding of how databases actually work",
-            "Course material and sample databases were modeled around banking use cases, adding valuable domain-specific context since TBC is a banking company",
+            "Course material was modeled around banking use cases, adding domain-specific context since TBC is a banking company",
         ]
     },
     {
@@ -30,9 +29,7 @@ export const education: Education[] = [
         startDate: "2024-11",
         endDate: "2025-06",
         highlights: [
-            "Began learning iOS development as an introduction to programming after leaving the hydropower plant role in Bakhvi and taking an interest in software development",
             "Selected from over 700 applicants: only 28 were accepted, 18 completed the program, and 5 were hired by TBC",
-            "During the bootcamp, broke an ankle and dislocated a collarbone in a skiing accident; the months of recovery period, spent largely bedridden, provided time to focus on studying",
             "Built a salary calculator handling complex enterprise scenarios as a midterm project",
             "Developed a fitness-focused social media app featuring an AI assistant as a personal fitness advisor for the final project",
             "Presented final projects live to an audience that included TBC's Android chapter leads and Frontend chapter area lead",

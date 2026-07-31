@@ -23,7 +23,7 @@ export const uses: DailyTool[] = [
         specs: [
             { label: "Model", value: "Macbook Pro 14\"" },
             { label: "Chip", value: "M2 Pro" },
-            { label: "RAM", value: "16GB" },
+            { label: "Memory", value: "16GB" },
             { label: "Storage", value: "512GB" },
         ],
     },
