@@ -12,7 +12,7 @@ export const readBooks: YearGroup[] = [
     {
         year: "Now Reading",
         books: [
-            { title: "The Linux Command Line", author: "William Shotts" },
+            { title: "Functional Programming in Scala", author: "Michael Pilquist" },
             { title: "The Innovators", author: "Walter Isaacson" },
         ]
     },
